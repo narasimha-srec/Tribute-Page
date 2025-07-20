@@ -1,0 +1,49 @@
+body{border: 5px solid black;
+    width: 100%;
+    height: 100vh;
+    margin:0;
+    background-color: lightgrey;
+
+}
+.firstdiv1{
+    border:solid blue;
+    text-align:center;
+    background-color: blue;
+    color: white;
+    padding: 2px;
+
+}
+.firstdiv2{
+    border:solid blue;
+    text-align:center;
+    background-color: blue;
+    color: white;
+    margin-top:5%;
+    padding:2px;
+}
+.pink{
+    background-color:white;
+    margin:30px;
+    padding:20px;
+    width:60%;
+    border-radius: 10px;
+   }
+   .green{
+    background-color:white;
+    margin:30px;
+    padding:20px;
+    width:60%;
+    border-radius:10px;
+    
+   }
+   p{
+    font-size: larger;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-decoration: aqua;
+   }
+ ul{
+    font-size: larger;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-decoration: aqua;
+ }
+    
